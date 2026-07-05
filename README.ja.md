@@ -8,7 +8,7 @@ English version → **[README.md](README.md)**
 
 - 📖 マニュアル（無料で読める）: [『AIエージェントセキュリティ・フィールドマニュアル』](https://leanpub.com/agent-security-ja) · [English](https://leanpub.com/agent-security)
 - 🔧 署名付き証拠を生成する実行可能な検証: [AI-Agent Security Verification Kit](https://0xshugo.gumroad.com/l/AI-Agent)
-- 📄 印刷用PDF（日英）: [Gumroad で無料ダウンロード](https://0xshugo.gumroad.com)
+- 📄 印刷用PDF（日英）: [Gumroad で無料ダウンロード](https://0xshugo.gumroad.com/l/agent-security-checklist)
 
 **適用範囲。** 本チェックリストは、言語モデルがツールを通じてアクション — API 呼び出し、コード実行、メッセージ送信、資金移動、本番環境の変更 — をプリンシパルに代わって実行できるあらゆるシステムに適用される（REQ-000）。
 

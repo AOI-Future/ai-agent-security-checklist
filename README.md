@@ -8,7 +8,7 @@ Every item is traceable: each question maps to a normative requirement (REQ-\*),
 
 - 📖 The manual (free to read): [AI Agent Security: A Field Manual](https://leanpub.com/agent-security) · [日本語版](https://leanpub.com/agent-security-ja)
 - 🔧 Executable verification with signed evidence: [AI-Agent Security Verification Kit](https://0xshugo.gumroad.com/l/AI-Agent)
-- 📄 Printable PDF (EN/JA): [free download on Gumroad](https://0xshugo.gumroad.com)
+- 📄 Printable PDF (EN/JA): [free download on Gumroad](https://0xshugo.gumroad.com/l/agent-security-checklist)
 
 **Scope.** This checklist applies to any system where a language model can take actions through tools — calling APIs, running code, sending messages, moving funds, or changing production — on behalf of a principal (REQ-000).
 
